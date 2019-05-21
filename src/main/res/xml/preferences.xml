@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <SwitchPreference
+        android:key="@string/pref_key_save"
+        android:title="Save Deletes"
+        android:defaultValue="false"
+        android:icon="@drawable/ic_save"
+        android:summary="if enabled saves the deleted records" />
+
+    <Preference
+        android:key="@string/pref_key_clear"
+        android:title="Clear Preferences"
+        android:icon="@drawable/ic_clear"
+        android:summary="Clear preferences and saved data" />
+
+</PreferenceScreen>

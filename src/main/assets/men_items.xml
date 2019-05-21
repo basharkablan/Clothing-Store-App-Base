@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+    <item>
+        <name>Black Jacket</name>
+        <image>black_jacket</image>
+        <price>70 $</price>
+        <details>Black jacket for men</details>
+    </item>
+    <item>
+        <name>Brown Jacket</name>
+        <image>brown_jacket</image>
+        <price>700 $</price>
+        <details>Brown jacket for men</details>
+    </item>
+    <item>
+        <name>Blue Jacket</name>
+        <image>blue_jacket</image>
+        <price>50 $</price>
+        <details>Blue jacket for men </details>
+    </item>
+</items>

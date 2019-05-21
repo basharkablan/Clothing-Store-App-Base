@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+    <item>
+        <name>Yellow</name>
+        <image>yellow</image>
+        <price>price: 7 Dollars</price>
+        <details>Yellow dress for women</details>
+    </item>
+    <item>
+        <name>White</name>
+        <image>white</image>
+        <price>price: 66 $</price>
+        <details>White dress for women</details>
+    </item>
+    <item>
+        <name>Pink</name>
+        <image>pink</image>
+        <price>price: 5 $</price>
+        <details>Pink dress for women</details>
+    </item>
+    <item>
+        <name>Blue</name>
+        <image>blue</image>
+        <price>price: 11 $</price>
+        <details>Blue dress for women</details>
+    </item>
+    <item>
+        <name>Black</name>
+        <image>black</image>
+        <price>price: 319 $</price>
+        <details>Black dress for women</details>
+    </item>
+</items>
